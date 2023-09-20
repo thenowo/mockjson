@@ -40,6 +40,20 @@
     {
       "id": 1234567890,
       "Jahr": "2022-2023",
+      "Monate": [
+        {
+          "Monat": "Januar",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Dezember",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        }
+      ],        
       "Abschlag": 100.50,
       "Energiepreisbremse": 10.00,
       "OffenerBetrag": 90.50
@@ -47,6 +61,20 @@
     {
       "id": 40123455,
       "Jahr": "2023-2024",
+      "Monate": [
+        {
+          "Monat": "Januar",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Dezember",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        }
+      ],  
       "Abschlag": 100.50,
       "Energiepreisbremse": 10.00,
       "OffenerBetrag": 90.50
