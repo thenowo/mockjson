@@ -38,7 +38,7 @@
   
   "rechnungen": [
     {
-      "id": "123",
+      "id": 123,
       "datum": "2023-09-20",
       "geldbetrag": 100.50
     },
