@@ -34,5 +34,19 @@
   ],
   "profile": {
     "name": "Profile 1"
-  }
+  },
+  
+  "rechnungen": [
+    {
+      "identifikationsnummer": "123",
+      "datum": "2023-09-20",
+      "geldbetrag": 100.50
+    },
+    {
+      "identifikationsnummer": "456",
+      "datum": "2023-09-21",
+      "geldbetrag": 75.25
+    }
+  ]
 }
+
