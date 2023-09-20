@@ -40,17 +40,157 @@
     {
       "id": 1234567890,
       "Jahr": "2022-2023",
-      "Abschlag": 100.50,
-      "Energiepreisbremse": 10.00,
-      "Offener Betrag": 90.50
+      "Monate": [
+        {
+          "Monat": "Januar",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Februar",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "März",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "April",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Mai",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Juni",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Juli",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "August",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "September",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Oktober",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "November",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Dezember",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        }
+      ]
     },
     {
       "id": 40123455,
       "Jahr": "2023-2024",
-      "Abschlag": 100.50,
-      "Energiepreisbremse": 10.00,
-      "Offener Betrag": 90.50
-    }
+      "Monate": [
+        {
+          "Monat": "Januar",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Februar",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "März",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "April",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Mai",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Juni",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Juli",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "August",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "September",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Oktober",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "November",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "Dezember",
+          "Abschlag": 100.50,
+          "Energiepreisbremse": 10.00,
+          "OffenerBetrag": 90.50
+        }
   ]
 
   }
