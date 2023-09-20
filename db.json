@@ -38,12 +38,12 @@
   
   "rechnungen": [
     {
-      "id": 123,
+      "identifikationsnummer": 123,
       "datum": "2023-09-20",
       "geldbetrag": 100.50
     },
     {
-      "id": "456",
+      "identifikationsnummer": "456",
       "datum": "2023-09-21",
       "geldbetrag": 75.25
     }
