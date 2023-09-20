@@ -42,72 +42,72 @@
       "Jahr": "2023-2024",
       "Monate": [
         {
-          "Monat": "Januar",
+          "Monat": "August 2023",
+          "Abschlag": 65.00,
+          "Energiepreisbremse": 10.91,
+          "OffenerBetrag": 90.50
+        },
+        {
+          "Monat": "September 2023",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Januar",
+          "Monat": "Oktober 2023",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Januar",
+          "Monat": "November 2023",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Januar",
+          "Monat": "Dezember 2023",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Januar",
+          "Monat": "Januar 2024",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Januar",
+          "Monat": "Februar 2024",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Januar",
+          "Monat": "März 2024",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Januar",
-          "Abschlag": 100.50,
-          "Energiepreisbremse": 10.00,
-          "OffenerBetrag": 90.50
-        },
-        {
-          "Monat": "Januar",
+          "Monat": "April 2024",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },{
-          "Monat": "Januar",
+          "Monat": "Mai 2024",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Januar",
+          "Monat": "Juni 2024",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
         },
         {
-          "Monat": "Dezember",
+          "Monat": "Juli 2024",
           "Abschlag": 100.50,
           "Energiepreisbremse": 10.00,
           "OffenerBetrag": 90.50
