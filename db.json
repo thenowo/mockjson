@@ -38,15 +38,169 @@
   
   "rechnungen": [
     {
-      "identifikationsnummer": 123,
-      "datum": "2023-09-20",
+      "id": 1234567890,
+      "Datum": "2023-09-20",
       "geldbetrag": 100.50
     },
     {
-      "identifikationsnummer": "456",
+      "id": 40123455,
       "datum": "2023-09-21",
       "geldbetrag": 75.25
     }
   ]
+  "rechnungen2": [
+    {
+      "id": 1234567890,
+      "Datenset": [
+    {
+      "Datum": "2023-08-01",
+      "Abschlag": 65.00,
+      "Energiepreisbremse": 10.00,
+      "OffenerBetrag": 0
+    },
+    {
+      "Datum": "2023-09-01",
+      "Abschlag": 65.00,
+      "Energiepreisbremse": 10.00,
+      "OffenerBetrag": 55
+    },
+    {
+      "Datum": "2023-10-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 10.00,
+      "OffenerBetrag": 70
+    },
+    {
+      "Datum": "2023-11-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 10.00,
+      "OffenerBetrag": 70
+    },
+    {
+      "Datum": "2023-12-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 10.00,
+      "OffenerBetrag": 70
+    },
+    {
+      "Datum": "2024-01-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-02-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-03-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-04-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-05-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-06-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-07-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    }
+  ]
+      {
+      "id": 40123455,
+      "Datenset": [
+    
+     {
+      "Datum": "2024-08-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-09-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-10-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-11-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2024-12-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2025-01-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2025-02-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2025-03-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2025-04-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2025-05-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2025-06-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    },
+    {
+      "Datum": "2025-07-01",
+      "Abschlag": 80.00,
+      "Energiepreisbremse": 0.00,
+      "OffenerBetrag": 80
+    }
+      ]
 }
 
