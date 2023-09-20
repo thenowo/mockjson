@@ -48,5 +48,17 @@
       "geldbetrag": 75.25
     }
   ]
+   "rechnungen2": [
+    {
+      "id": 1234567890,
+      "Datum": "2023-09-20",
+      "geldbetrag": 100.50
+    },
+    {
+      "id": 40123455,
+      "datum": "2023-09-21",
+      "geldbetrag": 75.25
+    }
+  ]
   }
 
