@@ -31,4 +31,86 @@
   "profile": {
     "name": "Profile 1"
   }
+
+  {
+  {
+  "Rechnungsdaten": [
+    {
+      "Datum": "August 2023",
+      "Abschlag": 65.00,
+      "Energiepreisbremse": 10.91,
+      "OffenerBetrag": 54.09,
+      "ID": ""
+    },
+    {
+      "Datum": "September 2023",
+      "Abschlag": 65.00,
+      "Energiepreisbremse": 10.91,
+      "OffenerBetrag": 54.09,
+      "ID": ""
+    },
+    {
+      "Datum": "Oktober 2023",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 10.91,
+      "OffenerBetrag": 89.18,
+      "ID": ""
+    },
+    {
+      "Datum": "November 2023",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 10.91,
+      "OffenerBetrag": 89.18,
+      "ID": ""
+    },
+    {
+      "Datum": "Dezember 2023",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 10.91,
+      "OffenerBetrag": 89.18,
+      "ID": ""
+    },
+    {
+      "Datum": "Januar 2024",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 0,
+      "OffenerBetrag": 100.09,
+      "ID": ""
+    },
+    {
+      "Datum": "Februar 2024",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 0,
+      "OffenerBetrag": 100.09,
+      "ID": ""
+    },
+    {
+      "Datum": "März 2024",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 0,
+      "OffenerBetrag": 100.09,
+      "ID": ""
+    },
+    {
+      "Datum": "April 2024",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 0,
+      "OffenerBetrag": 100.09,
+      "ID": ""
+    },
+    {
+      "Datum": "Mai 2024",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 0,
+      "OffenerBetrag": 100.09,
+      "ID": ""
+    },
+    {
+      "Datum": "Juni 2024",
+      "Abschlag": 100.09,
+      "Energiepreisbremse": 0,
+      "OffenerBetrag": 100.09,
+      "ID": ""
+    }
+  ]
 }
