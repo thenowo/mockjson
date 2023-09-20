@@ -51,14 +51,28 @@
   
   "rechnungens": [    
     {      
-      "id": 1234567890,      
-      "Datum": "2023-09-20",      
-      "geldbetrag": 100.50    
-    },    
-    {      
-      "id": 40123455,      
-      "datum": "2023-09-21",      
-      "geldbetrag": 75.25    
+      "id": 1234567890,         
+      "daten": [
+        {
+          "datum": "2022-09-21",
+          "geldbetrag": 75.2
+        },
+        {
+          "datum": "2022-10-21",
+          "geldbetrag": 100.2
+        }
+      ],
+      "id": 40123455,
+      "daten": [
+        {
+          "datum": "2023-09-21",
+          "geldbetrag": 75.2
+        },
+        {
+          "datum": "2023-10-21",
+          "geldbetrag": 100.2
+        }
+      ]
     }  
   ]
 
