@@ -44,16 +44,15 @@
         {
           "Monat": "August",
           "Abschlag": 100.50,
-          "OffenerBetrag": 0.00
+          "OffenerBetrag": 10.00
         },
         {
           "Monat": "September",
           "Abschlag": 100.50,
-          "OffenerBetrag": 0.00
+          "OffenerBetrag": 10.00
         }
       ],        
-      "Abschlag Veränderungsbedarf?": "Ja",
-      "Vorgeschlagene Summe": 65.00,
+      
     },
     {
       "id": 40123455,
@@ -63,7 +62,7 @@
           "Monat": "August",
           "Abschlag": 65.00,
           "Energiepreisbremse": 10.91,
-          "OffenerBetrag": 0.00
+          "OffenerBetrag": 10.00
         },
         {
           "Monat": "September",
@@ -71,10 +70,8 @@
           "Energiepreisbremse": 10.91,
           "OffenerBetrag": 54.09
         }
-      ],  
-      "Abschlag Veränderungsbedarf?": "Ja",
-      "Vorgeschlagene Summe": 80.00
-    }
+      ] 
+      }
         
   ]
 
