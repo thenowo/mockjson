@@ -39,45 +39,41 @@
   "rechnungen": [
     {
       "id": 1234567890,
-      "Jahr": "2022-2023",
+      "Jahr": "2021-2022",
       "Monate": [
         {
-          "Monat": "Januar",
+          "Monat": "August",
           "Abschlag": 100.50,
-          "Energiepreisbremse": 10.00,
-          "OffenerBetrag": 90.50
+          "OffenerBetrag": 0.00
         },
         {
-          "Monat": "Dezember",
+          "Monat": "September",
           "Abschlag": 100.50,
-          "Energiepreisbremse": 10.00,
-          "OffenerBetrag": 90.50
+          "OffenerBetrag": 0.00
         }
       ],        
-      "Abschlag": 100.50,
-      "Energiepreisbremse": 10.00,
-      "OffenerBetrag": 90.50
+      "Abschlag Veränderungsbedarf?": "Ja",
+      "Vorgeschlagene Summe": 65.00,
     },
     {
       "id": 40123455,
       "Jahr": "2023-2024",
       "Monate": [
         {
-          "Monat": "Januar",
-          "Abschlag": 100.50,
-          "Energiepreisbremse": 10.00,
-          "OffenerBetrag": 90.50
+          "Monat": "August",
+          "Abschlag": 65.00,
+          "Energiepreisbremse": 10.91,
+          "OffenerBetrag": 0.00
         },
         {
-          "Monat": "Dezember",
-          "Abschlag": 100.50,
-          "Energiepreisbremse": 10.00,
-          "OffenerBetrag": 90.50
+          "Monat": "September",
+          "Abschlag": 65.50,
+          "Energiepreisbremse": 10.91,
+          "OffenerBetrag": 54.09
         }
       ],  
-      "Abschlag": 100.50,
-      "Energiepreisbremse": 10.00,
-      "OffenerBetrag": 90.50
+      "Abschlag Veränderungsbedarf?": "Ja",
+      "Vorgeschlagene Summe": 80.00,
     }
         
   ]
