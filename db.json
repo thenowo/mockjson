@@ -37,7 +37,20 @@
   },
 
   "0123455": {
-    "name": "Profile 1"
+    "code": "0123455",
+    "Jahr": "2023-2024",
+    "Abschlag August": 65.00,
+    "Abschlag September": 65.00,
+    "Abschlag Oktober": 65.00,
+    "Abschlag November": 65.00,
+    "Abschlag Dezember": 65.00,
+    "Abschlag Januar": 65.00,
+    "Abschlag Februar": 65.00,
+    "Abschlag März": 65.00,
+    "Abschlag April": 65.00,
+    "Abschlag Mai": 65.00,
+    "Abschlag Juni": 65.00,
+    "Abschlag Juli": 65.00,
   },
   
   "1234567890": 
