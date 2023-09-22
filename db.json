@@ -1,6 +1,6 @@
 {
   
-  "rechnungen":[
+  "rechnungen":
         { 
       "id": 1234567890,
       "Jahr": "2023-2024",
@@ -88,7 +88,7 @@
           "Energiepreisbremse": 0.00,
           "OffenerBetrag": 80.00
         }
-]    
+    
         }
   ]
     }
