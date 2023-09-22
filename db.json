@@ -36,7 +36,7 @@
     "name": "Profile 1"
   },
     
-  "rechnungen": [
+  "rechnungen": 
         {
       "id": 1234567890,
       "Jahr": "2023-2024",
@@ -126,5 +126,5 @@
         }
       ]
     }
-  ]
+  
   }
