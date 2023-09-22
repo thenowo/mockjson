@@ -66,9 +66,12 @@
     "Offener Betrag Juli": 80.00
   },
 
-  "07031994": {
-    "code": "0123455",
+  "rechnungen": [
+  {
+    "id": "07031994",
     "Jahr": "2023-2024",
+    "Abschlag": [
+      {
     "Abschlag August": 65.00,
     "Abschlag September": 65.00,
     "Abschlag Oktober": 65.00,
@@ -80,7 +83,11 @@
     "Abschlag April": 65.00,
     "Abschlag Mai": 65.00,
     "Abschlag Juni": 65.00,
-    "Abschlag Juli": 65.00,
+    "Abschlag Juli": 65.00
+      }
+    ],
+    "Preisbremse": [
+      {
     "Preisbremse August": 10.91,
     "Preisbremse September": 10.91,
     "Preisbremse Oktober": 10.91,
@@ -92,7 +99,12 @@
     "Preisbremse April": 0.00,
     "Preisbremse Mai": 0.00,
     "Preisbremse Juni": 0.00,
-    "Preisbremse Juli": 0.00,
+    "Preisbremse Juli": 0.00
+      }
+    ],
+
+    "Offener Betrag": [
+      {
     "Offener Betrag August": 0.00,
     "Offener Betrag September": 54.01,
     "Offener Betrag Oktober": 69.01,
@@ -105,7 +117,8 @@
     "Offener Betrag Mai": 80.00,
     "Offener Betrag Juni": 80.00,
     "Offener Betrag Juli": 80.00
-  },
+  }
+  ],
   
   "1234567890": 
         {
@@ -198,3 +211,4 @@
       ]
     }
   }
+    }
