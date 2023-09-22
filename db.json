@@ -1,130 +1,89 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 12",
-      "description": "this is description 1"
-    },
-    {
-      "id": 4,
-      "title": "Post 4",
-      "description": "this is description 4"
-    }, {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  },
-    
-  "rechnungen": [
+    "rechnungen": "1234567890",
+    "Monate": [
         {
-      "id": 1234567890,
-      "Jahr": "2023-2024",
-      "Monate": [
-        {
-          "id": 40123455,
-          "Monat": "August 2023",
-          "Abschlag": 65.00,
-          "Energiepreisbremse": 10.91,
-          "OffenerBetrag": 54.09
+            "id": 40123455,
+            "Monat": "August 2023",
+            "Abschlag": 65.00,
+            "Energiepreisbremse": 10.91,
+            "OffenerBetrag": 54.09
         },
         {
-          "id": 2,
-          "Monat": "September 2023",
-          "Abschlag": 65.00,
-          "Energiepreisbremse": 10.91,
-          "OffenerBetrag": 54.09
+            "id": 2,
+            "Monat": "September 2023",
+            "Abschlag": 65.00,
+            "Energiepreisbremse": 10.91,
+            "OffenerBetrag": 54.09
         },
         {
-          "id": 3,
-          "Monat": "Oktober 2023",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 10.91,
-          "OffenerBetrag": 69.09
+            "id": 3,
+            "Monat": "Oktober 2023",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 10.91,
+            "OffenerBetrag": 69.09
         },
         {
-          "id": 4,
-          "Monat": "November 2023",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 10.91,
-          "OffenerBetrag": 69.09
+            "id": 4,
+            "Monat": "November 2023",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 10.91,
+            "OffenerBetrag": 69.09
         },
         {
-          "id": 5,
-          "Monat": "Dezember 2023",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 10.91,
-          "OffenerBetrag": 69.09
+            "id": 5,
+            "Monat": "Dezember 2023",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 10.91,
+            "OffenerBetrag": 69.09
         },
         {
-          "id": 6,
-          "Monat": "Januar 2024",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 0.00,
-          "OffenerBetrag": 80.00
+            "id": 6,
+            "Monat": "Januar 2024",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 0.00,
+            "OffenerBetrag": 80.00
         },
         {
-          "id": 7,
-          "Monat": "Februar 2024",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 0.00,
-          "OffenerBetrag": 80.00
+            "id": 7,
+            "Monat": "Februar 2024",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 0.00,
+            "OffenerBetrag": 80.00
         },
         {
-          "id": 8,
-          "Monat": "März 2024",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 0.00,
-          "OffenerBetrag": 80.00
+            "id": 8,
+            "Monat": "März 2024",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 0.00,
+            "OffenerBetrag": 80.00
         },
         {
-          "id": 9,
-          "Monat": "April 2024",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 0.00,
-          "OffenerBetrag": 80.00
-        },{
-          "id": 10,
-          "Monat": "Mai 2024",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 0.00,
-          "OffenerBetrag": 80.00
+            "id": 9,
+            "Monat": "April 2024",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 0.00,
+            "OffenerBetrag": 80.00
         },
         {
-          "id": 11,
-          "Monat": "Juni 2024",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 0.00,
-          "OffenerBetrag": 80.00
+            "id": 10,
+            "Monat": "Mai 2024",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 0.00,
+            "OffenerBetrag": 80.00
         },
         {
-          "id": 12,
-          "Monat": "Juli 2024",
-          "Abschlag": 80.00,
-          "Energiepreisbremse": 0.00,
-          "OffenerBetrag": 80.00
+            "id": 11,
+            "Monat": "Juni 2024",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 0.00,
+            "OffenerBetrag": 80.00
+        },
+        {
+            "id": 12,
+            "Monat": "Juli 2024",
+            "Abschlag": 80.00,
+            "Energiepreisbremse": 0.00,
+            "OffenerBetrag": 80.00
         }
-      ]
-    }
-  ]
-  }
+    ]
+}
