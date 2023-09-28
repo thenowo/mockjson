@@ -3,7 +3,9 @@
   
   "1234567890": 
         {
-      "code": "1234567890",
+      "Kundennummer": "PN07031994",
+      "Name" : "Carrie",
+      "Nachname" : "Schmidt",
       "Jahr": "2023-2024",
       "Verbrauch" : "836 kWh",
       "Monate": [
